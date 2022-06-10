@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "894651976416",
+    "project_id": "connect-a-brit-app",
+    "firebase_url": "  https://connect-a-brit-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "storage_bucket": "connect-a-brit-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894651976416:android:55829ddcfdfb17dca3de85",
+        "android_client_info": {
+          "package_name": "com.example.connect_a_britadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894651976416-qj39mropaf82plhnaq2sr111ff8r9b0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIz4W3lC0tFsUiqQZg1hutl7NNQ6JF69A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894651976416-qj39mropaf82plhnaq2sr111ff8r9b0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
